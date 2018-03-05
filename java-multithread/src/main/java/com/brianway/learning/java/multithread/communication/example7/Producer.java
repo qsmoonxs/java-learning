@@ -1,7 +1,14 @@
+/**
+ * Copyright(C) 2017 Hangzhou Differsoft Co., Ltd. All rights reserved.
+ */
 package com.brianway.learning.java.multithread.communication.example7;
 
 /**
- * Created by Brian on 2016/4/14.
+ *
+ *
+ * @author xus
+ * @since 2018-03-05 13:35
+ *
  */
 public class Producer {
     private String lock;

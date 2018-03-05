@@ -23,6 +23,7 @@ public class ArrayMaker<T> {
                 new ArrayMaker<String>(String.class);
         String[] stringArray = stringMaker.create(9);
         System.out.println(Arrays.toString(stringArray));
+
     }
 }
 /* Output:
